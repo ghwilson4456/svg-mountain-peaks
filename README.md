@@ -1,1 +1,2 @@
-# svg-mountain-peaks
+# mountain-peaks
+An SVG generator for creating random mountain peaks.

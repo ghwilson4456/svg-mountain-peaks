@@ -1,0 +1,16 @@
+{
+  "name": "svg-mountain-peaks",
+  "version": "1.0.0",
+  "description": "An SVG generator for creating mountain peaks.",
+  "main": "src/svg-mountain-peaks.js",
+  "repository": "https://github.com/ghwilson4456/svg-mountain-peaks.git",
+  "author": "Gary H. Wilson",
+  "license": "MIT License",
+  "devDependencies": {
+    "jsdoc": "^3.4.3",
+    "minami": "^1.1.1"
+  },
+  "scripts": {
+    "generate-docs": "node_modules/.bin/jsdoc --configure .jsdoc.json --verbose"
+  }
+}
